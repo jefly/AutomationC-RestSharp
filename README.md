@@ -19,7 +19,7 @@ Clone the repository to your local machine using the following command:
 
 ```bash
 git clone git@github.com:jefly/AutomationC-RestSharp.git
-
+```
 
 ### 2. Navigate to the Project Directory
 ```cd AmusedAutomation
