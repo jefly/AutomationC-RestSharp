@@ -35,3 +35,13 @@ dotnet build
 ```bash
 dotnet test
 ```
+
+### 5. Generate the report 
+```bash
+allure generate --clean reports
+```
+
+### 6. Open the report 
+```bash
+allure serve reports
+```
