@@ -1,0 +1,55 @@
+{
+  "uuid": "89080fb4-acf6-4188-a770-554352a32783",
+  "historyId": "64846d9e0becbdea955843f99c5da0ab",
+  "testCaseId": "22a318c0645efd09607c23bd0f148bd1",
+  "fullName": "AmusedAutomation:ApiTest.TestDeleteObject()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-8M8N0A4"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestDeleteObject"
+    },
+    {
+      "name": "testClass",
+      "value": "ApiTest"
+    },
+    {
+      "name": "suite",
+      "value": "API Tests"
+    }
+  ],
+  "links": [],
+  "name": "TestDeleteObject",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.ArgumentNullException : Value cannot be null. (Parameter 'baseUrl')",
+    "trace": "   at RestSharp.Ensure.NotEmptyString(Object value, String name)\r\n   at RestSharp.RestClient..ctor(String baseUrl, ConfigureRestClient configureRestClient, ConfigureHeaders configureDefaultHeaders, ConfigureSerialization configureSerialization)\r\n   at RestClientHelper..ctor(String baseUrl) in d:\\AUTOMATION\\C#\\after_nalin\\framework\\RestClientHelper.cs:line 23\r\n   at ApiTest.Setup() in d:\\AUTOMATION\\C#\\after_nalin\\tests\\ApiTest.cs:line 21\r\n   at InvokeStub_ApiTest.Setup(Object, Object, IntPtr*)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1728368854957,
+  "stop": 1728368854989
+}

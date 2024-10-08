@@ -1,0 +1,54 @@
+{
+  "uuid": "0b49ec36-367a-465e-a5a3-de51d48cc28d",
+  "historyId": "64846d9e0becbdea955843f99c5da0ab",
+  "testCaseId": "22a318c0645efd09607c23bd0f148bd1",
+  "fullName": "AmusedAutomation:ApiTest.TestDeleteObject()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NALIN"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestDeleteObject"
+    },
+    {
+      "name": "testClass",
+      "value": "ApiTest"
+    },
+    {
+      "name": "suite",
+      "value": "API Tests"
+    }
+  ],
+  "links": [],
+  "name": "TestDeleteObject",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "4e1f6916-c79a-42b3-a659-98cdb17a05ba-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1728376351283,
+  "stop": 1728376351802
+}

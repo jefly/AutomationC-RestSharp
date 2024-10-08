@@ -1,0 +1,54 @@
+{
+  "uuid": "bf1a6663-73e6-4b75-a260-d8d53763ac39",
+  "historyId": "77c83a11bcce2f2c59b649c1d1e1e8cc",
+  "testCaseId": "c2001f9171f3aaf5e6f023a21b4fde54",
+  "fullName": "AmusedAutomation:ApiTest.TestUpdateObject()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NALIN"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestUpdateObject"
+    },
+    {
+      "name": "testClass",
+      "value": "ApiTest"
+    },
+    {
+      "name": "suite",
+      "value": "API Tests"
+    }
+  ],
+  "links": [],
+  "name": "TestUpdateObject",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "72e1e4b2-90c7-48b1-8e8c-3576408b070d-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1728375314519,
+  "stop": 1728375314969
+}

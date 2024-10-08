@@ -1,0 +1,5 @@
+2024-10-08 13:52:43.0602|Info|Request | 
+2024-10-08 13:52:43.0602|Info|Request: Post /objects | 
+2024-10-08 13:52:43.4133|Info|Response | 
+2024-10-08 13:52:43.4133|Info|Request | 
+2024-10-08 13:52:43.4133|Info|Request: Delete /objects/ff808181923ed5e201926b39322e559e | 

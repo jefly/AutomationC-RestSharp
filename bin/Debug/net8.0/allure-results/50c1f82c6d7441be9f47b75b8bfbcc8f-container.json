@@ -1,0 +1,12 @@
+{
+  "uuid": "fbc25f25-5b43-4c44-9601-af2da6495ae5",
+  "name": "ApiTest.TestGetAllObjects",
+  "children": [
+    "8678de98-6d3b-4971-b035-0ce86f8a5055"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1728375763576,
+  "stop": 1728375763780
+}

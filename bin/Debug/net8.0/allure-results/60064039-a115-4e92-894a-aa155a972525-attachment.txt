@@ -1,0 +1,2 @@
+2024-10-08 13:46:39.7591|Info|Test message | 
+2024-10-08 13:46:39.7591|Info|Request: Get /objects/7 | 

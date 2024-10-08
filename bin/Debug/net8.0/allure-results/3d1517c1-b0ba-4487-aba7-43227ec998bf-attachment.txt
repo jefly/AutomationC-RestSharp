@@ -1,0 +1,2 @@
+2024-10-08 13:45:12.7389|Info|Test message | 
+2024-10-08 13:45:12.7518|Info|Request: Post /objects | 

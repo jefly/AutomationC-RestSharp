@@ -1,0 +1,9 @@
+2024-10-08 14:47:25.1090|Info|Request: Post /objects | 
+2024-10-08 14:47:28.4533|Info|Request: Post /objects | 
+2024-10-08 14:47:29.0600|Info|Response: OK, Content: {"id":"ff808181923ed5e201926b6b5482563b","name":null,"createdAt":"2024-10-08T09:17:29.090+00:00","data":null} | 
+2024-10-08 14:47:29.0867|Info|Request: Delete /objects/ff808181923ed5e201926b6b5482563b | 
+2024-10-08 14:47:29.3281|Info|Request: Get /objects | 
+2024-10-08 14:47:29.8716|Info|Request: Get /objects/7 | 
+2024-10-08 14:47:30.3466|Info|Request: Post /objects | 
+2024-10-08 14:47:30.6681|Info|Response: OK, Content: {"id":"ff808181923ed5e201926b6b5b53563c","name":null,"createdAt":"2024-10-08T09:17:30.835+00:00","data":null} | 
+2024-10-08 14:47:30.6681|Info|Request: Put /objects/ff808181923ed5e201926b6b5b53563c | 

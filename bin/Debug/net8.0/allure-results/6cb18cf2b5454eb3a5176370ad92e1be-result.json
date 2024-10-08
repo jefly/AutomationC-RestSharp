@@ -1,0 +1,61 @@
+{
+  "uuid": "81048f22-d6b6-4418-a1fc-c68a1d0b65b7",
+  "historyId": "786abc6a54b319be7b88f6ad0c87b10a",
+  "testCaseId": "3fa63e450d650890f7fa184f76a6e347",
+  "fullName": "AmusedAutomation:ApiTest.TestAddObject()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NALIN"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestAddObject"
+    },
+    {
+      "name": "testClass",
+      "value": "ApiTest"
+    },
+    {
+      "name": "suite",
+      "value": "API Tests"
+    }
+  ],
+  "links": [],
+  "name": "TestAddObject",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.ArgumentNullException : Value cannot be null. (Parameter 'logger')",
+    "trace": "   at System.ThrowHelper.Throw(String paramName)\r\n   at System.ThrowHelper.ThrowIfNull(Object argument, String paramName)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, String message, Object[] args)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)\r\n   at RestClientHelper.SendRequest(Method method, String endpoint, Object body) in C:\\Users\\NalinAmarathunga\\Documents\\rnd\\AmusedAutomation\\framework\\RestClientHelper.cs:line 41\r\n   at ApiTest.TestAddObject() in C:\\Users\\NalinAmarathunga\\Documents\\rnd\\AmusedAutomation\\tests\\ApiTest.cs:line 44\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "7e621a67-5ec0-46bd-946b-939dc11dc2da-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1728375010843,
+  "stop": 1728375011084
+}

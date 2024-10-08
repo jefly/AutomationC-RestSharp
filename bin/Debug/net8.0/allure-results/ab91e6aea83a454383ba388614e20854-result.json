@@ -1,0 +1,54 @@
+{
+  "uuid": "b0b3d007-0d29-4447-ae1f-19ad7d140f35",
+  "historyId": "2d422b35d76ebaf48cb071359cd971fa",
+  "testCaseId": "5afb069aef0cb5ee7a0ae39418827287",
+  "fullName": "AmusedAutomation:ApiTest.TestGetSingleObject()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NALIN"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestGetSingleObject"
+    },
+    {
+      "name": "testClass",
+      "value": "ApiTest"
+    },
+    {
+      "name": "suite",
+      "value": "API Tests"
+    }
+  ],
+  "links": [],
+  "name": "TestGetSingleObject",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "abad926e-a65c-4178-b15d-87b3d125b098-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1728376079838,
+  "stop": 1728376080066
+}

@@ -1,0 +1,6 @@
+2024-10-08 13:53:42.1743|Info|Request | 
+2024-10-08 13:53:42.1743|Info|Request: Post /objects | 
+2024-10-08 13:53:42.4005|Info|Response | 
+2024-10-08 13:53:42.4005|Info|Response: OK, Content: {"id":"ff808181923ed5e201926b3a18ba55a3","name":null,"createdAt":"2024-10-08T08:23:42.522+00:00","data":null} | 
+2024-10-08 13:53:42.4005|Info|Request | 
+2024-10-08 13:53:42.4005|Info|Request: Put /objects/ff808181923ed5e201926b3a18ba55a3 | 

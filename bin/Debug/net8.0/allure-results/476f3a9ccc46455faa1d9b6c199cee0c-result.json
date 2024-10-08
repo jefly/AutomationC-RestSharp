@@ -1,0 +1,55 @@
+{
+  "uuid": "a7419293-caa3-4ff8-8c3f-f39ee9aaa0b2",
+  "historyId": "2d422b35d76ebaf48cb071359cd971fa",
+  "testCaseId": "5afb069aef0cb5ee7a0ae39418827287",
+  "fullName": "AmusedAutomation:ApiTest.TestGetSingleObject()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-8M8N0A4"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestGetSingleObject"
+    },
+    {
+      "name": "testClass",
+      "value": "ApiTest"
+    },
+    {
+      "name": "suite",
+      "value": "API Tests"
+    }
+  ],
+  "links": [],
+  "name": "TestGetSingleObject",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.NullReferenceException : Object reference not set to an instance of an object.",
+    "trace": "   at ApiTest.TestGetSingleObject() in d:\\AUTOMATION\\C#\\after_nalin\\tests\\ApiTest.cs:line 52\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1728368680442,
+  "stop": 1728368680445
+}

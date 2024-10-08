@@ -1,0 +1,12 @@
+{
+  "uuid": "fba5ef1c-e089-4c88-9442-5c40a873f45e",
+  "name": "ApiTest.TestDeleteObject",
+  "children": [
+    "248c423d-d024-4ffe-b81f-564c292ae1bf"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1728364801943,
+  "stop": 1728364802575
+}

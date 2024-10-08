@@ -1,0 +1,3 @@
+2024-10-08 13:57:01.6947|Info|Request: Post /objects | 
+2024-10-08 13:57:01.9222|Info|Response: OK, Content: {"id":"ff808181923ed5e201926b3d242c55b8","name":null,"createdAt":"2024-10-08T08:27:02.060+00:00","data":null} | 
+2024-10-08 13:57:01.9222|Info|Request: Delete /objects/ff808181923ed5e201926b3d242c55b8 | 

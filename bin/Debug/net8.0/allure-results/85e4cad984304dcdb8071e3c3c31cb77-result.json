@@ -1,0 +1,61 @@
+{
+  "uuid": "555004f2-cb64-41fd-a9de-0e1c05fa272e",
+  "historyId": "77c83a11bcce2f2c59b649c1d1e1e8cc",
+  "testCaseId": "c2001f9171f3aaf5e6f023a21b4fde54",
+  "fullName": "AmusedAutomation:ApiTest.TestUpdateObject()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NALIN"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestUpdateObject"
+    },
+    {
+      "name": "testClass",
+      "value": "ApiTest"
+    },
+    {
+      "name": "suite",
+      "value": "API Tests"
+    }
+  ],
+  "links": [],
+  "name": "TestUpdateObject",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.ArgumentNullException : Value cannot be null. (Parameter 'logger')",
+    "trace": "   at System.ThrowHelper.Throw(String paramName)\r\n   at System.ThrowHelper.ThrowIfNull(Object argument, String paramName)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, EventId eventId, Exception exception, String message, Object[] args)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.Log(ILogger logger, LogLevel logLevel, String message, Object[] args)\r\n   at Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(ILogger logger, String message, Object[] args)\r\n   at RestClientHelper.SendRequest(Method method, String endpoint, Object body) in C:\\Users\\NalinAmarathunga\\Documents\\rnd\\AmusedAutomation\\framework\\RestClientHelper.cs:line 40\r\n   at ApiTest.TestUpdateObject() in C:\\Users\\NalinAmarathunga\\Documents\\rnd\\AmusedAutomation\\tests\\ApiTest.cs:line 67\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "bcf05287-1453-411e-b334-962b7625f984-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1728374736025,
+  "stop": 1728374736032
+}

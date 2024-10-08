@@ -1,0 +1,5 @@
+2024-10-08 13:45:13.5761|Info|Test message | 
+2024-10-08 13:45:13.5761|Info|Request: Post /objects | 
+2024-10-08 13:45:13.8171|Info|Response: OK, Content: {"id":"ff808181923ed5e201926b3255d95582","name":null,"createdAt":"2024-10-08T08:15:13.881+00:00","data":null} | 
+2024-10-08 13:45:13.8194|Info|Test message | 
+2024-10-08 13:45:13.8194|Info|Request: Delete /objects/ff808181923ed5e201926b3255d95582 | 
