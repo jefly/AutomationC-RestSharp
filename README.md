@@ -33,7 +33,7 @@ scoop install allure
 - Select Run button
 - Select Run All Tests In View
 
-##### 2. In command line
+#### 2. In command line
 
 ##### 2.1. Clone the Repository
 
