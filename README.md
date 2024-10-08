@@ -11,12 +11,20 @@ Before you begin, ensure you have the following installed on your machine:
 
 Project has a dependancy with the following nuGet packages.
 
-Allure.NUnit Version = 2.12.1 Microsoft.Extensions.Configuration.Json Version = 9.0.0-rc.1.24431.7
-Microsoft.NET.Test.Sdk Version = 17.11.1 Newtonsoft.Json Version = 13.0.3 NLog Version = 5.3.4 NLog.Extensions.Logging Version = 5.3.14 NUnit3TestAdapter Version = 4.6.0 RestSharp Version = 112.1.0 System.Configuration.ConfigurationManager Version = 9.0.0-rc.1.24431.7
+Allure.NUnit Version = 2.12.1 
+Microsoft.Extensions.Configuration.Json Version = 9.0.0-rc.1.24431.7
+Microsoft.NET.Test.Sdk Version = 17.11.1 
+Newtonsoft.Json Version = 13.0.3 
+NLog Version = 5.3.4 
+NLog.Extensions.Logging Version = 5.3.14 
+NUnit3TestAdapter Version = 4.6.0 
+RestSharp Version = 112.1.0 
+System.Configuration.ConfigurationManager Version = 9.0.0-rc.1.24431.7
 
 ## Set Up
 
-You need to install Allure to generate the report using command line.
+You need to install ```Allure``` to generate the report using command line. 
+To ```Allure Report``` to work, you need to set up ```JAVA_HOME``` in environment variables.
 
 ```
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser iwr -useb get.scoop.sh | iex
@@ -31,13 +39,13 @@ In ```nlog.config``` file you need to change the log file location according to 
 
 ### 1. How to run the Test suit
 
-#### 1. In Visual Studio
+#### 1. Using Visual Studio IDE
 - CLick on View
 - Select Test Explorer
 - Select Run button
 - Select Run All Tests In View
 
-#### 2. In command line
+#### 2. Using Command Line
 
 ##### 2.1. Clone the Repository
 
@@ -62,12 +70,12 @@ dotnet build
 dotnet test
 ```
 
-#### 2.5. Generate the report 
+##### 2.5. Generate the report 
 ```bash
 allure generate --clean reports
 ```
 
-#### 2.6. Open the report 
+##### 2.6. Open the report 
 ```bash
 allure serve reports
 ```
