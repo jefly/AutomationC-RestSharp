@@ -23,9 +23,12 @@ git clone git@github.com:jefly/AutomationC-RestSharp.git
 
 ### 2. Navigate to the Project Directory
 ```cd AmusedAutomation
+```
 
 ### 3. Build the project 
 ```dotnet build
+```
 
 ### 4. Run the Automation Suite 
 ```dotnet test
+```
