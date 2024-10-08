@@ -24,7 +24,7 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser iwr -useb get.scoop.sh | iex
 ```
 scoop install allure
 ```
-In nlog.config file you need to change the log file location according to your project path.
+In ```nlog.config``` file you need to change the log file location according to your project path.
 ```
 <target xsi:type="File" name="logfile" fileName="D:\AUTOMATION\C#\latest3\AmusedAutomation\logs\Logs.log"
 ```
