@@ -23,7 +23,7 @@ System.Configuration.ConfigurationManager Version = 9.0.0-rc.1.24431.7
 
 ## Set Up
 
-You need to install ```Allure``` to generate the report using command line. 
+You need to install ```Allure``` to generate the report using ```Windows PowerShell``` command line. <br/>
 To ```Allure Report``` to work, you need to set up ```JAVA_HOME``` in environment variables.
 
 ```
