@@ -1,6 +1,6 @@
-# API Automation Framework (C#, RestSharp, Allure, NLog)
+# API Automation Framework (C#, RestSharp, NUnit, Allure, NLog)
 
-This project is an API automation framework built using .NET 8.0, NUnit, RestSharp, and NLog for logging. It contains tests for a RESTful API.
+This project is an API automation framework built using .NET 8.0, NUnit(for testing), RestSharp(for API calls), NLog(for logging) and Allure(for reporting). It contains tests for a RESTful API.
 
 ## Prerequisites
 
@@ -20,9 +20,12 @@ Clone the repository to your local machine using the following command:
 ```bash
 git clone git@github.com:jefly/AutomationC-RestSharp.git
 
-### 2. Build the project
 
-```bash
-dotnet build
+### 2. Navigate to the Project Directory
+```cd AmusedAutomation
 
+### 3. Build the project 
+```dotnet build
 
+### 4. Run the Automation Suite 
+```dotnet test
