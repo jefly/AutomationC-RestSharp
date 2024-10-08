@@ -11,15 +11,15 @@ Before you begin, ensure you have the following installed on your machine:
 
 Project has a dependancy with the following nuGet packages.
 
-Allure.NUnit Version = 2.12.1 <br/>
-Microsoft.Extensions.Configuration.Json Version = 9.0.0-rc.1.24431.7<br/>
-Microsoft.NET.Test.Sdk Version = 17.11.1 <br/>
-Newtonsoft.Json Version = 13.0.3 <br/>
-NLog Version = 5.3.4 <br/>
-NLog.Extensions.Logging Version = 5.3.14 <br/>
-NUnit3TestAdapter Version = 4.6.0 <br/>
-RestSharp Version = 112.1.0 <br/>
-System.Configuration.ConfigurationManager Version = 9.0.0-rc.1.24431.7
+* Allure.NUnit Version = 2.12.1 <br/>
+* Microsoft.Extensions.Configuration.Json Version = 9.0.0-rc.1.24431.7<br/>
+* Microsoft.NET.Test.Sdk Version = 17.11.1 <br/>
+* Newtonsoft.Json Version = 13.0.3 <br/>
+* NLog Version = 5.3.4 <br/>
+* NLog.Extensions.Logging Version = 5.3.14 <br/>
+* NUnit3TestAdapter Version = 4.6.0 <br/>
+* RestSharp Version = 112.1.0 <br/>
+* System.Configuration.ConfigurationManager Version = 9.0.0-rc.1.24431.7
 
 ## Set Up
 
