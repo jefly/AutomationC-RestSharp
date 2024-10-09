@@ -35,7 +35,7 @@ scoop install allure
 ```
 * In ```nlog.config``` file you need to change the log file location according to your project path.
 ```
-<target xsi:type="File" name="logfile" fileName=**"D:\AUTOMATION\C#\latest3\AmusedAutomation\logs\Logs.log"**
+<target xsi:type="File" name="logfile" **fileName="D:\AUTOMATION\C#\latest3\AmusedAutomation\logs\Logs.log"**
 ```
 
 ### 1. How to run the Test suit
