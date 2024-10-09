@@ -53,7 +53,7 @@ scoop install allure
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone git@github.com:jefly/AutomationC-RestSharp.git
+git clone https://github.com/jefly/AutomationC-RestSharp.git
 ```
 
 ##### 2.2. Navigate to the Project Directory
