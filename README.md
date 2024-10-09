@@ -58,7 +58,7 @@ git clone git@github.com:jefly/AutomationC-RestSharp.git
 
 ##### 2.2. Navigate to the Project Directory
 ```bash
-cd AmusedAutomation
+cd AutomationC-RestSharp
 ```
 
 ##### 2.3. Build the project 
